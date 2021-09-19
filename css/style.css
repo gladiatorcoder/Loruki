@@ -267,6 +267,11 @@ code, pre{
     margin: 0 10px; 
 }
 
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
+
 /*ANIMATIONS*/
 @keyframes slideInFromLeft {
     0%{
